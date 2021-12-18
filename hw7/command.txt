@@ -1,0 +1,4 @@
+vlan <number>
+exit
+
+int <interface>
